@@ -10,6 +10,9 @@
 # 파이참에서 'no python interpreter configured for the project'가 뜰 때 해결법
 https://marobiana.tistory.com/161
 
+# 파이참 글자 크기 변경
+File > Settings > 'font' 검색  
+Use custom font에서 Size값 변경  
 
 ## 자료형(Data Type)의 종류
 * 자료형이 무엇인지 확인할 때는 type() 함수를 사용한다.  
