@@ -1,12 +1,16 @@
 ## 파이썬 개발환경 구축  
-* [파이썬 다운로드](https://www.python.org/downloads/windows)  
-1. Windows x86-64 executable installer
-2. add Python 3.8 to Path **꼭 체크하기**
+* [파이썬 다운로드](https://www.python.org/downloads/windows) 
+1. Windows x86-64 executable installer  
+2. add Python 3.8 to Path **꼭 체크하기**  
 3. success 후 disable path length.. 클릭 > 예   
-* cmd > python 
-* [Pycharm 프로그램 다운로드](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
-  * Community용 설치
+* cmd > python  
+* [Pycharm 프로그램 다운로드](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)  
+  * Community용 설치  
   
+# 파이참에서 'no python interpreter configured for the project'가 뜰 때 해결법
+https://marobiana.tistory.com/161
+
+
 ## 자료형(Data Type)의 종류
 * 자료형이 무엇인지 확인할 때는 type() 함수를 사용한다.  
 
@@ -65,5 +69,4 @@ instance_var_name, function_parameter_name, local_var_name
 ```
 > [참조 사이트](https://google.github.io/styleguide/pyguide.html#3164-guidelines-derived-from-guidos-recommendations)
 
-# 파이참에서 'no python interpreter configured for the project'가 뜰 때 해결법
-https://marobiana.tistory.com/161
+
