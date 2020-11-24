@@ -8,3 +8,9 @@
 |update(리스트)	|값 여러 개를 추가|
 |remove(x)	|x 요소 제거|
 |clear() | 모든 요소 제거|
+
+## 예제
+- [예제1](ex01/ex01.py) - set 다루기
+
+## 문제
+- [문제1](quiz01/README.md) - set 다루기
