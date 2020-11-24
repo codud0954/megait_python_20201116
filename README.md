@@ -35,6 +35,8 @@
 
 # 04. 중첩 반복문(Nested Loop)
 
+### [강의 자료](04_nested_loop/README.md)
+
 ## 문제
 ### [문제 1](04_nested_loop/quiz01) : 중첩 반복문(Nested Loop)
 
@@ -49,8 +51,6 @@
 ### [문제 1](05_function/quiz01) : 함수 만들기
 ### [문제 2](05_function/quiz02) : 종합 문제
 
-
-
 # 06. List 자료구조
 
 ### [강의 자료](06_list/README.md)
@@ -61,6 +61,8 @@
 ### [문제 3](06_list/quiz03) : List 연산(2)
 
 # 07. Tuple 자료구조
+
+### [강의 자료](07_tuple/README.md)
 
 ## 문제
 ### [문제 1](07_tuple/quiz01) : Tuple
@@ -106,6 +108,8 @@
 ### [문제 1](12_file/quiz01) : 파일 읽기, 쓰기
 
 # 13. 모듈(Module)
+
+### [강의 자료](13_module/README.md)
 
 ## 문제
 ### [문제 1](13_module/quiz01) : 모듈(module) 사용하기
