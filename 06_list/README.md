@@ -15,10 +15,10 @@
 
 ## 예제
 - [예제1](ex01/ex01.py) - List 기본 사용법
-- [예제2-1](ex02/ex02_1.py) - List 다루기(1)
-- [예제2-2](ex03/ex02_2.py) - List 다루기(2)
+- [예제2-1](ex02/ex02_1.py) - List 연산(1)
+- [예제2-2](ex02/ex02_2.py) - List 연산(2)
 
 ## 문제
 - [문제1](quiz01/README.md) - List 기본 사용법
-- [문제2](quiz02/README.md) - List 다루기(1)
-- [문제3](quiz03/README.md) - List 다루기(2)
+- [문제2](quiz02/README.md) - List 연산(1)
+- [문제3](quiz03/README.md) - List 연산(2)
