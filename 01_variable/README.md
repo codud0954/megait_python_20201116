@@ -73,4 +73,14 @@ instance_var_name, function_parameter_name, local_var_name
 ```
 > [참조 사이트](https://google.github.io/styleguide/pyguide.html#3164-guidelines-derived-from-guidos-recommendations)
 
+## 예제
+- [예제1](ex01/ex01.py) - print 함수, 주석 
+- [예제2](ex02/ex02.py) - 변수와 자료형
+- [예제3](ex03/ex03.py) - 산술 연산자
+- [예제4](ex04/ex04.py) - formatting 사용
+- [예제5](ex05/ex05.py) - input 함수, int 함수
 
+## 문제
+- [문제1](quiz01/README.md) - 문자열(String), 정수(Integer) 출력 및 연산
+- [문제2](quiz02/README.md) - formatting
+- [문제3](quiz03/README.md) - input 함수, int 함수 사용
