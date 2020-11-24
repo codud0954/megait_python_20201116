@@ -61,5 +61,5 @@ for i in range(5, 11):   # 5 <= i < 11
 ## 문제
 - [문제1](quiz01/README.md) - while 반복문
 - [문제2](quiz02/README.md) - for 반복문과 range 함수
-- [문제3](quiz03/README.md) - break문
+- [문제3](quiz03/README.md) - break, continue문
 - [문제4](quiz04/README.md) - 종합 문제
