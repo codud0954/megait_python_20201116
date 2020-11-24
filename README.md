@@ -1,5 +1,9 @@
 ### 메일주소: gleams@kakao.com
 
+# 00. 환경 세팅
+
+### [환경 세팅](00_setting/README.md)
+
 # 01. 변수(valriable)와 자료형(Data type)
 
 ### [강의 자료](01_variable/README.md)
