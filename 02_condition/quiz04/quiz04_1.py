@@ -1,7 +1,11 @@
-alphabet = input("소문자 알파벳을 입력하세요: ")
+# 평균 합격 구하기
 
-if alphabet < 'k':
-    print("%c는 k보다 앞에 있습니다." % alphabet)
+score1, score2 = input("두 점수를 입력하세요: ").split()
+score1 = int(score1)
+score2 = int(score2)
+average = (score1 + score2) / 2
 
-if alphabet > 'k':
-    print("%c는 k보다 뒤에 있습니다." % alphabet)
+if average >= 70:
+    print("합격입니다.")
+else:
+    print("불합격입니다.")
