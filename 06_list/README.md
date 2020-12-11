@@ -12,3 +12,13 @@
 |count(x)	|리스트에 x 값이 몇 개 들어있는지 반환|
   
 [> 더 많은 함수를 보고 싶다면](https://docs.python.org/3/tutorial/datastructures.html)
+
+## 예제
+- [예제1](ex01/ex01.py) - List 기본 사용법
+- [예제2-1](ex02/ex02_1.py) - List 연산(1)
+- [예제2-2](ex02/ex02_2.py) - List 연산(2)
+
+## 문제
+- [문제1](quiz01/README.md) - List 기본 사용법
+- [문제2](quiz02/README.md) - List 연산(1)
+- [문제3](quiz03/README.md) - List 연산(2)

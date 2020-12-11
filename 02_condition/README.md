@@ -29,3 +29,14 @@
 |and|a and b|논리곱. a와 b가 모두 참일 때 참|
 |or	|a or b|논리합. a나 b 중 한쪽만 참이여도 참|
 |not|not x|논리부정. 참과 거짓을 뒤집음|
+
+## 예제
+- [예제1](ex01/ex01.py) - input, int 함수, if문과 비교 연산자
+- [예제2](ex02/ex02.py) - 비교 연산자, 논리 연산자
+- [예제3](ex03/ex03.py) - if - elif - else문
+
+## 문제
+- [문제1](quiz01/README.md) - input, int 함수, if문과 비교 연산자
+- [문제2](quiz02/README.md) - 비교 연산자, 논리 연산자
+- [문제3](quiz03/README.md) - if - elif - else문
+- [문제4](quiz04/README.md) - 종합 문제

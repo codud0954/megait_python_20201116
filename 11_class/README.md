@@ -50,3 +50,12 @@ class 클래스명:
 
 ### 클래스 변수와 멤버 변수의 차이
 https://marobiana.tistory.com/162
+
+## 예제
+- [예제1](ex01/ex01.py) - 클래스
+- [예제2](ex02/ex02.py) - 클래스, 멤버변수 기본값 등
+
+## 문제
+- [문제1](quiz01/README.md) - 클래스 만들기
+- [문제2](quiz02/README.md) - 클래스 만들기
+- [문제3](quiz03/README.md) - 클래스 만들기
