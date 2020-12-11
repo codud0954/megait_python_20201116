@@ -22,6 +22,7 @@ class Person:
         yyyy = self.birth[:4]  # 일반 변수
         return 2020 - int(yyyy) + 1
 
+#boram = Person()  # 생성자에 파라미터 안넣으면 기본값이 들어간다.
 boram = Person("신보람", "19990101", "여자")
 # 멤버변수에 값 넣기
 # boram.name = "신보람"
