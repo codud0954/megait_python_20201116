@@ -98,7 +98,7 @@
 ### [문제 2](11_class/quiz02) : 클래스(Class), 생성자(Constructor)
 ### [문제 3](11_class/quiz03) : 클래스 설계
   
-### [추가 문제](quiz04/README.md) - 클래스 만들기 고급문제
+### [추가 문제](11_class/quiz04/README.md) - 클래스 만들기 고급문제
 
 # 12. 파일 읽기, 쓰기
 
